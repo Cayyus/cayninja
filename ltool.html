@@ -1,10 +1,45 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>List Generation Tool</title>
+    <link rel="stylesheet" href="ltool.css">
 </head>
 <body>
+
     <a href="/cayninja/index.html">Home</a>
+
+    <div class="container">
+        <div class="form-group">
+            <label for="lnum"><strong>List Number</strong></label><br>
+            <input type="text" id="lnum" class="form-control" required/>
+        </div>
+        <div class="form-group">
+            <label for="lname"><strong>List Name</strong></label><br>
+            <input type="text" id="lname" class="form-control" style="width: 300px;" required/>
+        </div>
+        <div class="form-group">
+            <label for="dropdown"><strong>Select a template:</strong></label>
+            <select id="dropdown" class="form-control" required>
+                <option value="citizen">Citizenship</option>
+                <option value="execstaff">Executive Staff</option>
+                <option value="npa">NPA</option>
+                <option value="forum">Forum</option>
+            </select>
+        </div>
+
+        <button type="submit" id="form-submit-btn">Generate List</button><br><br>
+
+        <div class="relative-container">
+            <button class="copy-button" onclick="copyToClipboard()">Copy</button>
+            <textarea name="output-box" id="outputBox" readonly cols="63" rows="30"></textarea>
+        </div>
+        
+    </div>
+
+    <script src="ltool.js">
+    </script>
+
 </body>
 </html>
