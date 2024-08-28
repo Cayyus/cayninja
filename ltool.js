@@ -81,7 +81,7 @@ Thank you,
 `,
 
 "NPA": `
-[code]Hello, %NATION!%
+[code]Hello, %NATION%!
 
 My name is [your name] and [b]I want you[/b] to join the North Pacific Army (NPA) today! The NPA is The North Pacific's very own military and could be the most fun that you will have in this game.
 
