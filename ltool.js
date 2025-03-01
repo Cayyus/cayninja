@@ -136,7 +136,7 @@ Joining the WA is easy and only takes about two minutes.
 
 You're now part of the WA and can participate in all the exciting aspects of it![/spoiler]
 
-Once you have joined the World Assembly, make sure to endorse [b]Delegate [nation]Picairn[/nation] as well as [url=page=dispatch/id=485372] all Security Council members[/url][/b]. This helps strengthen the security of our region, to learn more about that, check out the [b][url=/page=dispatch/id=338370]World Assembly Development Program (WADP)[/url][/b].
+Once you have joined the World Assembly, make sure to endorse [b]Delegate [nation]Chipoli[/nation] as well as [url=page=dispatch/id=485372] all Security Council members[/url][/b]. This helps strengthen the security of our region, to learn more about that, check out the [b][url=/page=dispatch/id=338370]World Assembly Development Program (WADP)[/url][/b].
 
 I hope to see you in the WA soon. Let me know if you have any questions!
 
